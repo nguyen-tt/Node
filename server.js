@@ -4,4 +4,4 @@ dotenv.config();
 
 
 console.log(`The server will run on port ${process.env.SERVER_PORT}`);
-console.log(`My name is ${process.env.MY_NAME} from ${process.env.MY_CITY} and i learn ${process.env.MY_LANGUAGE}`);
+console.log(`I am ${process.env.MY_NAME}, wilder in ${process.env.MY_CITY} and i love ${process.env.MY_LANGUAGE}`);
