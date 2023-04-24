@@ -1,4 +1,6 @@
 /* eslint-disable no-undef */
+
+/* require("dotenv").config(); */
 import dotenv from 'dotenv';
 dotenv.config();
 
